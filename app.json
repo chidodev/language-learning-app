@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "project",
+    "slug": "project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "951c9814-cb90-4214-922a-3038aa69eafc"
+      }
+    }
+  },
+  "plugins": [
+    "@react-native-firebase/firestore"
+  ]
+}
